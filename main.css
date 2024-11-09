@@ -1,7 +1,32 @@
-h2{
-    color:purple
+.navbar {
+    background-color: rgb(154, 190, 219);
+    overflow: hidden;
+    position: fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    text-align: center;
+}
+.navbar li {
+    list-style-type: none;
+    display:inline;
 }
 
-#mainPara{
-    font-style: italic;
+.navbar a {
+    font-size:35px;
+    padding: 14px 30px;
+    text-decoration: none;
+    color: rgb(102, 102, 202);
+}
+
+.navbar a:hover{
+    background-color: rgb(102, 102, 202);
+    color: rgb(154, 190, 219);
+}
+
+.welcome{
+    background-color:rgb(215, 230, 243);
+    color: rgb(50, 50, 172);;
+    padding: 100px 100px;
+    text-align: center
 }
