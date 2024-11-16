@@ -25,8 +25,134 @@
 }
 
 .welcome{
-    background-color:rgb(215, 230, 243);
-    color: rgb(50, 50, 172);;
-    padding: 100px 100px;
-    text-align: center
+    background-color:rgb(199, 212, 223);
+    color: rgb(102, 102, 202);
+    padding: 10% 5%;
+    text-align: center;
+    display: box; 
+}
+
+.Equipment{
+    background-color: rgb(199, 212, 223);
+    color: rgb(102, 102, 202);
+    padding:10% 5%;
+    text-align: center;
+    display: box;
+}
+
+.resorts{
+    background-color: rgb(199, 212, 223);
+    color: rgb(102, 102, 202);
+    padding: 10% 5%;
+    text-align: center;
+    display: box;
+}
+
+.terrain{
+    background-color:rgb(199, 212, 223);
+    color: rgb(102, 102, 202);
+    padding: 10% 5%;
+    text-align: center;
+    display:box;
+}
+
+body{
+    margin:0;
+    padding:0;
+}
+
+.contentA{
+    background-color:rgb(154, 190, 219);
+    padding:10% 5%;
+    display:flex;
+    text-align: center;
+}
+
+.contentA img{
+    width: 70%;
+    float:left;
+}
+
+.beginner img{
+    width: 40%;
+    float: right;
+    
+}
+
+.beginner{
+    background-color: CAE9FF;
+    color: 1B4965;
+    padding: 10% 5%;
+    text-align:left;
+}
+
+.beginner p{
+    font-size:2vw;
+}
+
+.contentA p{
+    font-size: 2vw;
+    color: rgb(102, 102, 202);
+    padding-left: 5%;
+}
+
+.contentB{
+    background-color:CAE9FF;
+    color:1B4965;
+    padding:5% 5%;
+    text-align:center;
+}
+
+.contentC{
+    background-color:5FA8D3;
+    color:1B4965;
+    padding:5% 5%;
+    text-align:center;
+}
+
+.contentD{
+    background-color:CAE9FF;
+    color:1B4965;
+    padding:5% 5%;
+    text-align:center;
+}
+
+.contentE{
+    background-color:5FA8D3;
+    color:1B4965;
+    padding:5% 5%;
+    text-align:center;
+}
+
+.contentF{
+    background-color:CAE9FF;
+    color:1B4965;
+    padding:5% 5%;
+    text-align:center;
+}
+
+.contentG{
+    background-color:5FA8D3;
+    color:1B4965;
+    padding:5% 5%;
+    text-align:center;
+}
+
+.contentH{
+    background-color:CAE9FF;
+    color:1B4965;
+    padding:5% 5%;
+    text-align:center;
+}
+
+.contentI{
+    background-color:5FA8D3;
+    color:1B4965;
+    padding:5% 5%;
+    text-align:center;
+}
+
+.states{
+    font-size: 30px;
+    color: 1B4965;
 }
