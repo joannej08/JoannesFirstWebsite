@@ -74,20 +74,68 @@ body{
 }
 
 .beginner img{
-    width: 40%;
+    width: 20%;
     float: right;
     
 }
 
 .beginner{
-    background-color: CAE9FF;
-    color: 1B4965;
+    background-color: #CAE9FF;
+    color: #1B4965;
     padding: 10% 5%;
     text-align:left;
 }
 
 .beginner p{
-    font-size:2vw;
+    font-size:25px;
+}
+
+.intermediate img{
+    width: 20%;
+    float: left;
+}
+
+.intermediate{
+    background-color: #5FA8D3;
+    color: #1B4965;
+    padding: 10% 5%;
+    text-align: right;
+}
+
+.intermediate p{
+    font-size:25px;
+}
+
+.advanced img{
+    width: 20%;
+    float: right;
+}
+
+.advanced{
+    background-color: #CAE9FF;
+    color: #1B4965;
+    padding: 10% 5%;
+    text-align: left;
+}
+
+.advanced p{
+    font-size:25px;
+}
+
+.expert img{
+    width: 20%;
+    float: left;
+}
+
+.expert{
+    background-color: #5fa8d3;
+    color:#1B4965;
+    padding: 10% 5%;
+    text-align: right;
+}
+
+.expert p{
+    font-size: 25px;
 }
 
 .contentA p{
@@ -97,62 +145,91 @@ body{
 }
 
 .contentB{
-    background-color:CAE9FF;
-    color:1B4965;
+    background-color:#CAE9FF;
+    color:#1B4965;
     padding:5% 5%;
     text-align:center;
+}
+
+.contentB img{
+    width:30%;
+    float:center;
 }
 
 .contentC{
-    background-color:5FA8D3;
-    color:1B4965;
+    background-color:#5FA8D3;
+    color:#1B4965;
     padding:5% 5%;
     text-align:center;
+}
+
+.contentC img{
+    width:30%;
+    float:center;
 }
 
 .contentD{
-    background-color:CAE9FF;
-    color:1B4965;
+    background-color:#CAE9FF;
+    color:#1B4965;
     padding:5% 5%;
     text-align:center;
+}
+
+.contentD img{
+    width:30%;
+    float:center;
 }
 
 .contentE{
-    background-color:5FA8D3;
-    color:1B4965;
+    background-color:#5FA8D3;
+    color:#1B4965;
     padding:5% 5%;
     text-align:center;
+}
+
+.contentE img{
+    width:30%;
+    float:center;
 }
 
 .contentF{
-    background-color:CAE9FF;
-    color:1B4965;
+    background-color:#CAE9FF;
+    color:#1B4965;
     padding:5% 5%;
     text-align:center;
+}
+
+.contentF img{
+    width:30%;
+    float:center;
 }
 
 .contentG{
-    background-color:5FA8D3;
-    color:1B4965;
+    background-color:#5FA8D3;
+    color:#1B4965;
     padding:5% 5%;
     text-align:center;
+}
+
+.contentG img{
+    width: 30%;
+    float: center;
 }
 
 .contentH{
-    background-color:CAE9FF;
-    color:1B4965;
+    background-color:#CAE9FF;
+    color:#1B4965;
     padding:5% 5%;
     text-align:center;
 }
 
-.contentI{
-    background-color:5FA8D3;
-    color:1B4965;
-    padding:5% 5%;
-    text-align:center;
+.contentH img{
+    width:30%;
+    float: center;
 }
 
 .states{
+    background-color: #5FA8D3;
     font-size: 30px;
-    color: 1B4965;
+    color: #1B4965;
 }
